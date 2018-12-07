@@ -5,4 +5,4 @@ Follow the guide
 Then enjoy Github
 Good luck!
 
-Second master has been created and changes were made to the new master, let us see it.
+Second branch has been created and changes were made to the new branch (Readme_edits), let us see it.
